@@ -1,4 +1,7 @@
 package Car;
+/**
+ * 大巴车类
+ */
 
 import java.util.Scanner;
 

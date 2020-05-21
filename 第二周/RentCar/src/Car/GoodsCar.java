@@ -1,5 +1,8 @@
 package Car;
 
+/**
+ * 该类为载货车类，继承于Car，增添载货能力和总共载货量两个属性
+ */
 abstract class GoodsCar extends Car
 {
     private double goodsNum;

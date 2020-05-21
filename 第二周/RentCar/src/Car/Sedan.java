@@ -4,8 +4,7 @@ import java.util.Scanner;
 
 
 /**
- * 完成小轿车类
- *
+ * 小轿车类
  */
 class Sedan extends PassengerCar
 {
@@ -17,6 +16,7 @@ class Sedan extends PassengerCar
         super.cost = 45;
         setPeopleNum(4);
     }
+
 
     void show(){
         System.out.println("序号为"+id+"的"+name+"，每天的租车费用为"+cost+",最大载客量为"+getPeopleNum());

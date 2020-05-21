@@ -1,5 +1,8 @@
 package Car;
 
+/**
+ * 该类为卡车类，增添载货载人能力和载客总数、载货总量四个属性
+ */
 abstract public class Truck extends Car
 {
     private int peopleNum;

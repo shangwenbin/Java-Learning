@@ -1,4 +1,7 @@
 package Car;
+/**
+ * 美式皮卡类
+ */
 
 import java.util.Scanner;
 

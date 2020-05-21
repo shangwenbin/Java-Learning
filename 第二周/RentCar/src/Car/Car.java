@@ -14,12 +14,24 @@ abstract class Car {
     public Car() {
     }
 
+    /**
+     * 该函数展示这辆车的信息
+     */
     abstract void show();
 
+    /**
+     * 该函数向用户询问，并获取输入
+     */
     abstract void askUser();
 
+    /**
+     * 该函数根据用户输入计算花销以及载人数和载货量
+     */
     abstract void cal();
 
+    /**
+     * 该函数用于展示租用车辆的详细信息
+     */
     abstract void rentInformation();
 
     public int getCarNum() {

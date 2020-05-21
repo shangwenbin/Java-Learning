@@ -1,4 +1,7 @@
 package Car;
+/**
+ * 低栏车类
+ */
 
 import java.util.Scanner;
 
