@@ -14,6 +14,7 @@ public class LowHurdleCar extends GoodsCar
         super.name = "低栏车";
         super.cost = 30;
         setGoodsNum(1.5);
+
     }
 
 
