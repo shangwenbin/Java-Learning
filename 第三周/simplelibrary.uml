@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>simplelibrary</OriginalElement>
+  <nodes>
+    <node x="179.0" y="0.0">simplelibrary.Return</node>
+    <node x="0.0" y="278.0">simplelibrary.Main</node>
+    <node x="0.0" y="0.0">simplelibrary.Borrow</node>
+    <node x="0.0" y="149.0">simplelibrary.Book</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="154.0" y="169.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
